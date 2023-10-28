@@ -18,7 +18,7 @@ Example of usage:
 $ python Guess_the_number.py
 I want to play the game 'Guess the number'.
 Please enter a number from 1 to 100: 50
-Incorrect! Try again.
+Well, that is not correct, try again. Try bigger number.
 
 Please enter a number from 1 to 100: 75
 Well, that is not correct, try again. Try smaller number.
